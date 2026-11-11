@@ -3,6 +3,6 @@ public class App{
     return a+b;
   }
   public static void main(String[] args){
-    System.out.println("717 + 91 -"+ add(8, 4));
+    System.out.println("717 + 91 -"+ add(8, 7));
   }
 }
